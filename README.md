@@ -32,4 +32,4 @@ This is a compliance aid, not legal advice. The legal content has been checked a
 
 Made by Abdul Adelubi at The Tech Forge (dtechforge.com). Questions, corrections and feedback: info@dtechforge.com.
 
-© 2026 The Tech Forge. See `LICENSE`.
+© 2026 The Tech Forge. Licensed under the Apache License 2.0: see `LICENSE` and `NOTICE`. The official Act and GAID texts are not covered by the licence.
