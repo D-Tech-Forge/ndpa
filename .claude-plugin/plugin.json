@@ -1,6 +1,6 @@
 {
   "name": "techforge-ndpa",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Nigeria Data Protection Act 2023 and NDPC GAID 2025: audit projects and documents for gaps, answer NDPA questions with citations, and draft compliance documents.",
   "author": { "name": "Abdul Adelubi, The Tech Forge", "email": "info@dtechforge.com" },
   "keywords": ["ndpa", "ndpc", "gaid", "data-protection", "compliance", "nigeria", "dpia", "privacy"]
