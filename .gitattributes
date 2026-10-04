@@ -1,0 +1,2 @@
+# Official regulation text is the citation source of truth: byte-exact.
+references/source/*.official.txt -text
