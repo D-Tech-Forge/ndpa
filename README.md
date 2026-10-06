@@ -24,6 +24,8 @@ Claude picks the right skill from your request. For example:
 - To confirm that a fee, deadline or tier is still current, it may look up pages on the NDPC website (ndpc.gov.ng). It says what it checked.
 - Audit reports name the systems examined and their weaknesses. Keep them somewhere appropriate for confidential client material.
 
+Full privacy statement: [Privacy](https://github.com/D-Tech-Forge/ndpa/blob/main/PRIVACY.md) (`PRIVACY.md` in this repository).
+
 ## Limits
 
 This is a compliance aid, not legal advice. The legal content has been checked against the official text of the Act and the GAID, but not yet by a Nigerian data-protection lawyer. Have a qualified data-protection professional review anything you rely on or file. NDPC fees, tiers and forms can change (GAID Art.50), so confirm current requirements on ndpc.gov.ng.
