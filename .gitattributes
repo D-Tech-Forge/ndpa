@@ -1,2 +1,2 @@
-# Official regulation text is the citation source of truth: byte-exact.
+# Generated: keep these files exactly as committed.
 references/source/*.official.txt -text
